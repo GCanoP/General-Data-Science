@@ -1,4 +1,4 @@
-General Folder with Data Science Scripts from Courses and Examples. 
+General Folder with Data Science Scripts from Web Courses and Examples. 
 Folder Structure.
 1. Data Forecasting Scripts.
 2. Deep Learning Scripts.
